@@ -1,3 +1,5 @@
+[![Puppet Forge](http://img.shields.io/puppetforge/v/katello/elasticsearch.svg)](https://forge.puppetlabs.com/katello/elasticsearch)
+[![Build Status](https://travis-ci.org/Katello/puppet-elasticsearch.svg?branch=master)](https://travis-ci.org/Katello/puppet-elasticsearch)
 # elasticsearch
 
 #### Table of Contents
